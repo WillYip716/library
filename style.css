@@ -1,0 +1,20 @@
+#addbookform{
+    display:grid;
+    width: 1000px;
+    grid-template-columns: 150px 400px;
+}
+
+#addbutton{
+    margin-top: 25px;
+    margin-bottom: 25px;;
+}
+
+div button{
+    margin-left: 25px;
+}
+
+div div{
+    border: 3px solid black;
+    margin-top: 10px;
+    padding: 3px;
+}
